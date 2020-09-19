@@ -1,7 +1,7 @@
 ## WordPress+Nginx+PHP-FPM Deployment
 
 - Requires Ansible 1.2 or newer
-- Expects CentOS/RHEL 6.x hosts
+- Expects CentOS/RHEL 6.x hosts or newer
 
 These playbooks deploy a simple all-in-one configuration of the popular
 WordPress blogging platform and CMS, frontend by the Nginx web server and the
